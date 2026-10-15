@@ -1,0 +1,13 @@
+{
+  "name": "supabase-keepalive",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ping": "node ping.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2",
+    "ws": "^8"
+  }
+}
